@@ -5,5 +5,5 @@
 # Use #
 
     ```javascript
-require("widig_start")();
-```
+    require("widig_start")();
+    ```
