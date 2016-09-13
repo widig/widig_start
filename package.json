@@ -1,15 +1,45 @@
 {
-  "name": "widig_start",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  
+	"name": "widig_start",
+  
+	"version": "1.0.4",
+  
+	"main": "index.js",
+  
+	"dependencies": {
+    
+		"express": "^4.14.0"
+  
+	},
+	
+  	"devDependencies": {},
+  
+	"scripts": {
+    
+		"test": "echo \"Error: no test specified\" && exit 1"
+  
+	},
+  
+	"author": "",
+  
+	"license": "ISC",
+  
+	"repository": {
+    
+		"type": "git",
+    
+		"url": "git+https://github.com/widig/widig_start.git"
+  
+	},
+  
+	"bugs": {
+    
+		"url": "https://github.com/widig/widig_start/issues"
+  
+	},
+  
+	"homepage": "https://github.com/widig/widig_start#readme",
+  
+	"description": ""
+
 }
