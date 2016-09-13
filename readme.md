@@ -4,4 +4,6 @@
 
 # Use #
 
-    ```require("widig_start")();```
+    ```javascript
+require("widig_start")();
+```
