@@ -1,5 +1,5 @@
 {
 	"get" : {
-		"/" : "./path/root.js"
+		"/" : "root.js"
 	}
 }
