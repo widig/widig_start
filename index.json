@@ -1,5 +1,12 @@
 {
 	"get" : {
-		"/" : "root.js"
+		"/" : ["debug.js","root.js"],
+		"/:first" : ["debug.js","root.js"],
+		"/:first/:second" : ["debug.js","root.js"],
+		"/:first/:second/:third" : ["debug.js","root.js"],
+		"/:first/:second/:third/:fourth" : ["debug.js","root.js"],
+		"/:first/:second/:third/:fourth/:fifth" : ["debug.js","root.js"],
+		"/:first/:second/:third/:fourth/:fifth/:sixth" : ["debug.js","root.js"],
+		"/:first/:second/:third/:fourth/:fifth/:sixth/:seventh" : ["debug.js","root.js"]
 	}
 }
