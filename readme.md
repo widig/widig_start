@@ -5,7 +5,9 @@
 # Use #
 
 ```javascript
-require("widig_start")();
+var app = require("widig_start");
+app.run();
+
 ```
 
 ## Paths ##
